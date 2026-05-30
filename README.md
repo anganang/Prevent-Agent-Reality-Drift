@@ -1,6 +1,7 @@
 # Reality Drift
 
 > An AI agent's context is not reality. Over a long session, the two quietly drift apart.
+
 > AI Agent 的上下文不是现实。会话越长，两者越是悄悄分叉。
 
 **[English](#english)** · **[简体中文](#简体中文)**
