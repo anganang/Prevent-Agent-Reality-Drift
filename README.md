@@ -83,6 +83,8 @@ World state  ≠  Agent's belief state
 
 An agent acts on its belief state. When that quietly stops matching the world — and nothing forces a re-check — every downstream step inherits the gap.
 
+This is a claim about *machines*, not people. "Reality drift" also gets used in a human, cultural sense — synthetic media, algorithmic distortion, how people perceive a destabilized reality. That is a different subject. The drift here is mechanical and measurable: **an agent's belief state desynchronizing from runtime state.** If you prefer a more literal handle, call it *belief-state drift* or *world-state drift* — same failure, narrower word.
+
 ### What Reality Drift is *not*
 
 The name is sharp only if it excludes things. Reality Drift is **not**:
@@ -215,6 +217,8 @@ Don't paste all of it into a small project. Rule density has a cost — keep onl
 ```
 
 Agent 是按它的信念状态行动的。当信念状态悄悄不再匹配世界、又没有任何机制强制它重新核对时,后续每一步都继承了这道裂缝。
+
+这说的是**机器**,不是人。"现实漂移"在人文语境里也有人用——合成媒体、算法扭曲、人对一个失稳现实的认知异化。那是另一个话题。这里的漂移是机械的、可测量的:**Agent 的信念状态与 runtime 状态失同步。** 如果你偏好更直白的叫法,称它 *belief-state drift* 或 *world-state drift* 也行——同一个失败,只是词更窄。
 
 ### Reality Drift *不是*什么
 
