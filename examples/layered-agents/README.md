@@ -10,7 +10,7 @@ your-project/
         └── AGENTS.md      ← 模块：radio 特有的协议/时序/验证（见 radio-AGENTS.md）
 ```
 
-为避免和仓库根的真实 `AGENTS.md` 混淆，这里两份示例分别命名为 `root-AGENTS.md` 和 `radio-AGENTS.md`，实际使用时去掉前缀放到对应目录。
+本目录中对应的示例文件是 `root-AGENTS.md` 和 `radio-AGENTS.md`——为避免和仓库根的真实 `AGENTS.md` 混淆才加了前缀，实际使用时去掉前缀放到上面树里对应的位置即可。
 
 ## 判断条款放哪的标准
 
